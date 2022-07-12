@@ -8,7 +8,7 @@ parolaPalindroma(parola);
 
 
 
-function parolaPalindroma (palindroma) {
+/*function parolaPalindroma (palindroma) {
     for (let i = palindroma.length; i > 0; i--) {
         if (palindroma[i] = palindroma.charAt(palindroma.length)-1 ) {
             console.log('Palindroma')
@@ -16,4 +16,5 @@ function parolaPalindroma (palindroma) {
             console.log('Non palindroma')
         }
     }
-}
+} */
+
